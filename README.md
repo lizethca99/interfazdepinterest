@@ -14,7 +14,7 @@ Se enfoca en replicar la apariencia visual de pinterest, ofreciendo una experien
 +**CSS 3** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_
 
 ###Vista previa del proyecto
-![Demo](Imagenes/Pinterest/Pinterest_screen.png)
+![Demo](Imagenes/Pinterest_screen.png)
 
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto, escribeme por [LinkedIn](https://www.linkedin.com/in/lizeth-carrillo-457826209/)
